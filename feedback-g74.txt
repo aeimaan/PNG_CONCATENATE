@@ -1,0 +1,381 @@
+1783 bytes received in memory 0x5cd23f0, seq=7.
+2715 bytes received in memory 0x5e5d5a0, seq=13.
+3545 bytes received in memory 0x5f7cf80, seq=22.
+5974 bytes received in memory 0x6970040, seq=30.
+5273 bytes received in memory 0x6a88c80, seq=38.
+4863 bytes received in memory 0x6ba82f0, seq=42.
+1544 bytes received in memory 0x5cd23f0, seq=2.
+2357 bytes received in memory 0x5e5d5a0, seq=11.
+3004 bytes received in memory 0x5f7cf80, seq=16.
+3068 bytes received in memory 0x6970040, seq=19.
+3805 bytes received in memory 0x6a88c80, seq=25.
+6367 bytes received in memory 0x6ba82f0, seq=35.
+5260 bytes received in memory 0x6d70040, seq=43.
+5235 bytes received in memory 0x6e88570, seq=44.
+1458 bytes received in memory 0x5cd23f0, seq=1.
+2785 bytes received in memory 0x5e5d5a0, seq=14.
+3484 bytes received in memory 0x5f7cf80, seq=24.
+6671 bytes received in memory 0x6970040, seq=34.
+1525 bytes received in memory 0x5cd23f0, seq=4.
+4554 bytes received in memory 0x5e5d5a0, seq=27.
+5634 bytes received in memory 0x5f7cf80, seq=36.
+1373 bytes received in memory 0x5cd23f0, seq=3.
+2728 bytes received in memory 0x5e5d5a0, seq=15.
+6380 bytes received in memory 0x5f7cf80, seq=33.
+4873 bytes received in memory 0x6970040, seq=41.
+1019 bytes received in memory 0x5cd23f0, seq=0.
+2146 bytes received in memory 0x5e5d5a0, seq=10.
+3112 bytes received in memory 0x5f7cf80, seq=18.
+3291 bytes received in memory 0x6970040, seq=21.
+3290 bytes received in memory 0x6a88c80, seq=23.
+5518 bytes received in memory 0x6ba82f0, seq=29.
+5437 bytes received in memory 0x6d70040, seq=46.
+1855 bytes received in memory 0x5cd23f0, seq=5.
+6268 bytes received in memory 0x5e5d5a0, seq=31.
+4818 bytes received in memory 0x5f7cf80, seq=40.
+4890 bytes received in memory 0x6970040, seq=48.
+1993 bytes received in memory 0x5cd23f0, seq=9.
+5178 bytes received in memory 0x5e5d5a0, seq=28.
+2059 bytes received in memory 0x5cd23f0, seq=6.
+2602 bytes received in memory 0x5e5d5a0, seq=12.
+3009 bytes received in memory 0x5f7cf80, seq=17.
+3086 bytes received in memory 0x6970040, seq=20.
+4352 bytes received in memory 0x6a88c80, seq=26.
+5420 bytes received in memory 0x6ba82f0, seq=37.
+5429 bytes received in memory 0x6d70040, seq=45.
+4622 bytes received in memory 0x6e88570, seq=49.
+MEMORY INF 9606  INFLATED PICTURE: 3
+MEMORY INF 9606  INFLATED PICTURE: 18
+MEMORY INF 9606  INFLATED PICTURE: 23
+MEMORY INF 9606  INFLATED PICTURE: 22
+MEMORY INF 9606  INFLATED PICTURE: 8
+MEMORY INF 9606  INFLATED PICTURE: 5
+MEMORY INF 9606  INFLATED PICTURE: 15
+MEMORY INF 9606  INFLATED PICTURE: 24
+MEMORY INF 9606  INFLATED PICTURE: 27
+MEMORY INF 9606  INFLATED PICTURE: 14
+MEMORY INF 9606  INFLATED PICTURE: 34
+MEMORY INF 9606  INFLATED PICTURE: 36
+MEMORY INF 9606  INFLATED PICTURE: 0
+MEMORY INF 9606  INFLATED PICTURE: 7
+MEMORY INF 9606  INFLATED PICTURE: 11
+MEMORY INF 9606  INFLATED PICTURE: 2
+MEMORY INF 9606  INFLATED PICTURE: 20
+MEMORY INF 9606  INFLATED PICTURE: 19
+MEMORY INF 9606  INFLATED PICTURE: 31
+MEMORY INF 9606  INFLATED PICTURE: 38
+MEMORY INF 9606  INFLATED PICTURE: 37
+MEMORY INF 9606  INFLATED PICTURE: 41
+MEMORY INF 9606  INFLATED PICTURE: 39
+MEMORY INF 9606  INFLATED PICTURE: 10
+MEMORY INF 9606  INFLATED PICTURE: 1
+MEMORY INF 9606  INFLATED PICTURE: 30
+MEMORY INF 9606  INFLATED PICTURE: 33
+MEMORY INF 9606  INFLATED PICTURE: 35
+MEMORY INF 9606  INFLATED PICTURE: 29
+1870 bytes received in memory 0x5cd23f0, seq=8.
+6037 bytes received in memory 0x5e5d5a0, seq=32.
+5137 bytes received in memory 0x5f7cf80, seq=39.
+5571 bytes received in memory 0x6970040, seq=47.
+MEMORY INF 9606  INFLATED PICTURE: 12
+MEMORY INF 9606  INFLATED PICTURE: 16
+MEMORY INF 9606  INFLATED PICTURE: 13
+MEMORY INF 9606  INFLATED PICTURE: 25
+MEMORY INF 9606  INFLATED PICTURE: 32
+MEMORY INF 9606  INFLATED PICTURE: 45
+MEMORY INF 9606  INFLATED PICTURE: 44
+MEMORY INF 9606  INFLATED PICTURE: 47
+MEMORY INF 9606  INFLATED PICTURE: 6
+MEMORY INF 9606  INFLATED PICTURE: 17
+MEMORY INF 9606  INFLATED PICTURE: 21
+MEMORY INF 9606  INFLATED PICTURE: 9
+MEMORY INF 9606  INFLATED PICTURE: 26
+MEMORY INF 9606  INFLATED PICTURE: 4
+MEMORY INF 9606  INFLATED PICTURE: 40
+MEMORY INF 9606  INFLATED PICTURE: 42
+MEMORY INF 9606  INFLATED PICTURE: 48
+MEMORY INF 9606  INFLATED PICTURE: 46
+MEMORY INF 9606  INFLATED PICTURE: 28
+MEMORY INF 9606  INFLATED PICTURE: 49
+MEMORY INF 9606  INFLATED PICTURE: 43
+len_def = 174086
+paster2 execution time: 20.865229 seconds
+Buffer Size (B) = 10
+# Producers (P) = 5
+# Consumers (C) = 10
+# Wait Time (X) = 0
+Image ID (N) = 1
+Execution time = 2.0856363773345947 seconds
+
+Test 1: -- PNG Signature -- PASS
+Output: 89504e47
+Expected: 89504e47
+------
+Test 2: -- Width -- PASS
+Output: 00000190
+Expected: 00000190
+------
+Test 3: -- Height -- PASS
+Output: 0000012c
+Expected: 0000012c
+------
+Test 4: -- IHDR CRC -- PASS
+Output: edb7e5c2
+Expected: edb7e5c2
+------
+Test 5: -- IDAT Length -- PASS
+Output: 0002a806
+Expected: 0002a806
+------
+Test 6: -- IDAT 100th Byte -- PASS
+Output: ce3ee7ee
+Expected: ce3ee7ee
+------
+Test 7: -- IDAT 200th Byte -- PASS
+Output: 27b70e2c
+Expected: 27b70e2c
+------
+Test 8: -- IDAT 300th Byte -- PASS
+Output: 9c58b25c
+Expected: 9c58b25c
+------
+Test 9: -- IDAT 400th Byte -- PASS
+Output: 27a7b8ff
+Expected: 27a7b8ff
+------
+Test 10: -- IDAT CRC -- PASS
+Output: 6e121783
+Expected: 6e121783
+------
+Test 11: -- IEND -- PASS
+Output: 0000000049454e44ae426082
+Expected: 0000000049454e44ae426082
+------
+Total Test Case Grade = 15 / 15
+
+========
+
+Buffer Size (B) = 5
+# Producers (P) = 5
+# Consumers (C) = 5
+# Wait Time (X) = 200
+Image ID (N) = 1
+Execution time = 10.240509271621704 seconds
+
+Test 1: -- PNG Signature -- PASS
+Output: 89504e47
+Expected: 89504e47
+------
+Test 2: -- Width -- PASS
+Output: 00000190
+Expected: 00000190
+------
+Test 3: -- Height -- PASS
+Output: 0000012c
+Expected: 0000012c
+------
+Test 4: -- IHDR CRC -- PASS
+Output: edb7e5c2
+Expected: edb7e5c2
+------
+Test 5: -- IDAT Length -- PASS
+Output: 0002a806
+Expected: 0002a806
+------
+Test 6: -- IDAT 100th Byte -- PASS
+Output: ce3ee7ee
+Expected: ce3ee7ee
+------
+Test 7: -- IDAT 200th Byte -- PASS
+Output: 27b70e2c
+Expected: 27b70e2c
+------
+Test 8: -- IDAT 300th Byte -- PASS
+Output: 9c58b25c
+Expected: 9c58b25c
+------
+Test 9: -- IDAT 400th Byte -- PASS
+Output: 27a7b8ff
+Expected: 27a7b8ff
+------
+Test 10: -- IDAT CRC -- PASS
+Output: 6e121783
+Expected: 6e121783
+------
+Test 11: -- IEND -- PASS
+Output: 0000000049454e44ae426082
+Expected: 0000000049454e44ae426082
+------
+Total Test Case Grade = 11 / 15
+
+========
+
+Buffer Size (B) = 10
+# Producers (P) = 10
+# Consumers (C) = 1
+# Wait Time (X) = 200
+Image ID (N) = 1
+Execution time = 10.241530895233154 seconds
+
+Test 1: -- PNG Signature -- PASS
+Output: 89504e47
+Expected: 89504e47
+------
+Test 2: -- Width -- PASS
+Output: 00000190
+Expected: 00000190
+------
+Test 3: -- Height -- PASS
+Output: 0000012c
+Expected: 0000012c
+------
+Test 4: -- IHDR CRC -- PASS
+Output: edb7e5c2
+Expected: edb7e5c2
+------
+Test 5: -- IDAT Length -- PASS
+Output: 0002a806
+Expected: 0002a806
+------
+Test 6: -- IDAT 100th Byte -- PASS
+Output: ce3ee7ee
+Expected: ce3ee7ee
+------
+Test 7: -- IDAT 200th Byte -- PASS
+Output: 27b70e2c
+Expected: 27b70e2c
+------
+Test 8: -- IDAT 300th Byte -- PASS
+Output: 9c58b25c
+Expected: 9c58b25c
+------
+Test 9: -- IDAT 400th Byte -- PASS
+Output: 27a7b8ff
+Expected: 27a7b8ff
+------
+Test 10: -- IDAT CRC -- PASS
+Output: 6e121783
+Expected: 6e121783
+------
+Test 11: -- IEND -- PASS
+Output: 0000000049454e44ae426082
+Expected: 0000000049454e44ae426082
+------
+Total Test Case Grade = 15 / 15
+
+========
+
+Buffer Size (B) = 10
+# Producers (P) = 1
+# Consumers (C) = 1
+# Wait Time (X) = 400
+Image ID (N) = 1
+Execution time = 20.24234628677368 seconds
+
+Test 1: -- PNG Signature -- PASS
+Output: 89504e47
+Expected: 89504e47
+------
+Test 2: -- Width -- PASS
+Output: 00000190
+Expected: 00000190
+------
+Test 3: -- Height -- PASS
+Output: 0000012c
+Expected: 0000012c
+------
+Test 4: -- IHDR CRC -- PASS
+Output: edb7e5c2
+Expected: edb7e5c2
+------
+Test 5: -- IDAT Length -- PASS
+Output: 0002a806
+Expected: 0002a806
+------
+Test 6: -- IDAT 100th Byte -- PASS
+Output: ce3ee7ee
+Expected: ce3ee7ee
+------
+Test 7: -- IDAT 200th Byte -- PASS
+Output: 27b70e2c
+Expected: 27b70e2c
+------
+Test 8: -- IDAT 300th Byte -- PASS
+Output: 9c58b25c
+Expected: 9c58b25c
+------
+Test 9: -- IDAT 400th Byte -- PASS
+Output: 27a7b8ff
+Expected: 27a7b8ff
+------
+Test 10: -- IDAT CRC -- PASS
+Output: 6e121783
+Expected: 6e121783
+------
+Test 11: -- IEND -- PASS
+Output: 0000000049454e44ae426082
+Expected: 0000000049454e44ae426082
+------
+Total Test Case Grade = 15 / 15
+
+========
+
+Buffer Size (B) = 10
+# Producers (P) = 10
+# Consumers (C) = 5
+# Wait Time (X) = 400
+Image ID (N) = 1
+Execution time = 20.243082761764526 seconds
+
+Test 1: -- PNG Signature -- PASS
+Output: 89504e47
+Expected: 89504e47
+------
+Test 2: -- Width -- PASS
+Output: 00000190
+Expected: 00000190
+------
+Test 3: -- Height -- PASS
+Output: 0000012c
+Expected: 0000012c
+------
+Test 4: -- IHDR CRC -- PASS
+Output: edb7e5c2
+Expected: edb7e5c2
+------
+Test 5: -- IDAT Length -- PASS
+Output: 0002a806
+Expected: 0002a806
+------
+Test 6: -- IDAT 100th Byte -- PASS
+Output: ce3ee7ee
+Expected: ce3ee7ee
+------
+Test 7: -- IDAT 200th Byte -- PASS
+Output: 27b70e2c
+Expected: 27b70e2c
+------
+Test 8: -- IDAT 300th Byte -- PASS
+Output: 9c58b25c
+Expected: 9c58b25c
+------
+Test 9: -- IDAT 400th Byte -- PASS
+Output: 27a7b8ff
+Expected: 27a7b8ff
+------
+Test 10: -- IDAT CRC -- PASS
+Output: 6e121783
+Expected: 6e121783
+------
+Test 11: -- IEND -- PASS
+Output: 0000000049454e44ae426082
+Expected: 0000000049454e44ae426082
+------
+Total Test Case Grade = 11 / 15
+
+========
+
+Memory Leak Report:
+==636309==     in use at exit: 0 bytes in 0 blocks
+
+Total Memory Leak Grade = 10 / 10
